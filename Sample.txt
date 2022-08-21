@@ -12,7 +12,18 @@ Following are list of tech skills :
 7. Spring Web
 
 
+
+To be learned :
+
+1. Jenkins
+2. Spring JDBC
+3. Spring Security
+
+
+Doen changes
+
 Thank you......
 
 
 Final Copy
+

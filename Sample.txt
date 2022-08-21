@@ -10,3 +10,10 @@ Following are list of tech skills :
 5. Hibernate
 6. Spring MVC
 7. Spring Web
+
+
+To be learned :
+
+1. Jenkins
+2. Spring JDBC
+3. Spring Security
